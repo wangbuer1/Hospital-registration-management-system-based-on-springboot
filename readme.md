@@ -1,10 +1,11 @@
-# 基于springboot的医院(挂号)管理系统
+# 基于springboot的医院(挂号)管理系统1
 
 ## 获取方式
 
 关注公众号： **程序员王不二**，回复关键词  ：**医院** ，获取完整版源码
 
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
+
 
 ## 1、项目介绍
 
@@ -35,59 +36,53 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200944910.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202206200944910.jpg)
 
 ### 4.2 首页模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200945917.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202206200945917.jpg)
 
 ### 4.3 用户模块
 
-![患者-挂号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200945633.jpg)
+![患者-挂号](https://www.codeshop.fun/Typora-Images/202206200945633.jpg)
 
-![患者-查看自己病史](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200945648.jpg)
+![患者-查看自己病史](https://www.codeshop.fun/Typora-Images/202206200945648.jpg)
 
-![患者-查看自己病史](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200945289.jpg)
+![患者-查看自己病史](https://www.codeshop.fun/Typora-Images/202206200945289.jpg)
 
-![患者-查询服务](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946000.jpg)
+![患者-查询服务](https://www.codeshop.fun/Typora-Images/202206200946000.jpg)
 
 ### 4.4 医生模块
 
-![医生-主界面](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946951.jpg)
+![医生-主界面](https://www.codeshop.fun/Typora-Images/202206200946951.jpg)
 
-![医生-查看病人病史](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946786.jpg)
+![医生-查看病人病史](https://www.codeshop.fun/Typora-Images/202206200946786.jpg)
 
-![医生-开药](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946922.jpg)
+![医生-开药](https://www.codeshop.fun/Typora-Images/202206200946922.jpg)
 
-![医生-入院手续](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946026.jpg)
+![医生-入院手续](https://www.codeshop.fun/Typora-Images/202206200946026.jpg)
 
-![医生-诊断](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946857.jpg)
+![医生-诊断](https://www.codeshop.fun/Typora-Images/202206200946857.jpg)
 
 ### ４.5 管理员模块
 
-![管理员-医生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946403.jpg)
+![管理员-医生管理](https://www.codeshop.fun/Typora-Images/202206200946403.jpg)
 
-![管理员-患者管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946442.jpg)
+![管理员-患者管理](https://www.codeshop.fun/Typora-Images/202206200946442.jpg)
 
-![管理员-药品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946599.jpg)
+![管理员-药品管理](https://www.codeshop.fun/Typora-Images/202206200946599.jpg)
 
-![管理员-科目管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946595.jpg)
+![管理员-科目管理](https://www.codeshop.fun/Typora-Images/202206200946595.jpg)
 
-![管理员-疾病管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946575.jpg)
+![管理员-疾病管理](https://www.codeshop.fun/Typora-Images/202206200946575.jpg)
 
-![管理员-病史管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946633.jpg)
+![管理员-病史管理](https://www.codeshop.fun/Typora-Images/202206200946633.jpg)
 
-![管理员-预约管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946839.jpg)
+![管理员-预约管理](https://www.codeshop.fun/Typora-Images/202206200946839.jpg)
 
-![管理员-住院信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206200946002.jpg)
+![管理员-住院信息管理](https://www.codeshop.fun/Typora-Images/202206200946002.jpg)
 
-## 5、视频演示
 
-[点击播放视频，视频位于文章最后](输入链接)
-
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**医院**
 
 
 
